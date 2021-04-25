@@ -1,18 +1,15 @@
-```js
-import Machine Learning from Interests;
+```py
+import MachineLearningScientist from Interests;
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+print("Welcome To My Profile!")
+
+class Bio extends MachineLearningScientist {
+  name     = 'Jason Scheffel';
+  age      = '16';
 }
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+class Skills extends MachineLearningScientist {
+  languages  = ['Python'];
 }
 ```
 
-⭐️ From [thompsonemerson](https://github.com/thompsonemerson)
