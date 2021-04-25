@@ -1,8 +1,8 @@
 ```py
-import MachineLearningScientist from Interests
-import Information from File
-
-print("Welcome To My Profile!")
+import MachineLearningScientist from Interests                              |
+import Information from File                                                |
+                                                                            |
+print("Welcome To My Profile!")                                             | 
 
 # Displays Biography
 class Bio extends MachineLearningScientist {
