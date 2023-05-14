@@ -1,7 +1,10 @@
-All repositories on my GitHub, GitLab, and Codeberg accounts are either
-read-only mirrors or read-only forks.
+All repositories on my [GitHub](https://github.com/jason-scheffel),
+[GitLab](https://gitlab.com/jason-scheffel), and
+[Codeberg](https://codeberg.org/jason-scheffel) accounts are either read-only
+mirrors or read-only forks.
 
-Developement on all such repositories is done on SourceHut.
+Developement on all such repositories is done on
+[SourceHut](https://sr.ht/~jason-scheffel).
 
 ##### Table of Contents:
 
