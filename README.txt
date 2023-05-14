@@ -12,6 +12,8 @@ CodeBerg: .. https://codeberg.org/jason-scheffel
 PGP KEY (same key, different locations):
 ... https://gitlab.com/jason-scheffel.gpg
 ... https://github.com/jason-scheffel.gpg
+... https://codeberg.org/jason-scheffel.gpg
+... https://meta.sr.ht/~jason-scheffel.pgp
 
 CONTACT INFORMATION:
 Email: contact@jasonscheffel.com
