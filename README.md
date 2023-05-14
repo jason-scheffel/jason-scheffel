@@ -5,7 +5,7 @@ Developement on all such repositories is done on SourceHut.
 
 ##### Table of Contents:
 
-1. [Platforms](#git-platforms)
+1. [Git Platforms](#git-platforms)
 1. [PGP Key](#pgp-key)
 1. [Contact Information](#contact-information)
 
