@@ -7,3 +7,7 @@ SourceHut: . https://sr.ht/~jason-scheffel
 GitHub: .... https://github.com/jason-scheffel
 GitLab: .... https://gitlab.com/jason-scheffel
 CodeBerg: .. https://codeberg.org/jason-scheffel
+
+PGP Key (same key, different locations):
+... https://gitlab.com/jason-scheffel.gpg
+... https://github.com/jason-scheffel.gpg
