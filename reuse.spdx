@@ -1,0 +1,17 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: gm-profile-readme
+DocumentNamespace: http://spdx.org/spdxdocs/spdx-v2.1-7cecf676-6144-4259-b9e7-c0c0c3a895e7
+Creator: Person: Anonymous ()
+Creator: Organization: Anonymous ()
+Creator: Tool: reuse-1.0.0
+Created: 2023-05-28T23:57:23Z
+CreatorComment: <text>This document was created automatically using available reuse information consistent with REUSE.</text>
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-e692434054594d36f386e1f83e3b13a6
+
+FileName: ./README.md
+SPDXID: SPDXRef-e692434054594d36f386e1f83e3b13a6
+FileChecksum: SHA1: d60687c4fa326402117e4adb667b68e206d985db
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
