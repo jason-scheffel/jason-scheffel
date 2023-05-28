@@ -32,6 +32,6 @@ Developement on all such repositories is done on
 
 ##### CONTACT INFORMATION
 
-| Type  | idk    |
-| :---- | :----- |
-| Email | aksdjk |
+| Type  | idk                          |
+| :---- | :--------------------------- |
+| Email | jason.scheffel@protonmail.ch |
