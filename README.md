@@ -5,9 +5,5 @@ Undergraduate researcher at UAlbany working on GNNs and XAI.
 
 ---
 
-**repos**
-
-[tells](link) -- My text-to-speech SaaS
-
-[dotfiles](link) -- Arch, vim, tmux
-
+| [tells](link) | My text-to-speech SaaS |
+| [dotfiles](link) | Arch, vim, tmux |
