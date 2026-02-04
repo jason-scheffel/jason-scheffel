@@ -7,5 +7,5 @@ Undergraduate researcher at UAlbany working on GNNs and XAI.
 
 | Repo | Description |
 | --- | --- |
-| [tells](link) | My text-to-speech SaaS |
-| [dotfiles](link) | Arch, vim, tmux |
+| [tells](https://github.com/tells-sh/tells) | My text-to-speech SaaS |
+| [dotfiles](https://github.com/jason-scheffel/dotfiles) | Arch, vim, tmux |
