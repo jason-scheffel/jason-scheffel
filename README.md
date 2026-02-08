@@ -1,6 +1,6 @@
 Undergraduate researcher at UAlbany working on GNNs and XAI.
 
-[pgp](https://jasonscheffel.com/pgp.html)
+[cv](https://github.com/jason-scheffel/cv) | [pgp](https://jasonscheffel.com/pgp.html)
 
 
 ---
